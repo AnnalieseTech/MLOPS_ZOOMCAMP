@@ -35,12 +35,12 @@
   4. **Projects**: Manages ML projects (out of scope for this course).
 
 **Setting Up and Using MLflow**:
-- MLflow can be installed as a Python package with `pip install mlflow`.
+- MLflow can be installed as a Python package with `pip install mlflow` or `conda install conda-forge::mlflow`
 - Can be used locally or with a server for collaboration.
 - Organizes experiments into runs, tracking parameters, metrics, metadata, and artifacts.
 
 **Demonstration**:
-- Launch MLflow UI with `mlflow ui`.
+- Launch MLflow UI with `mlflow ui` or `mlflow ui --backend-store-uri sqlite:///mlflow.db`
 - UI provides a way to explore experiments, runs, and models.
 - Experiments can be created and managed through the UI.
 - Model Registry feature requires a backend store (e.g., PostgreSQL, MySQL, SQLite).
