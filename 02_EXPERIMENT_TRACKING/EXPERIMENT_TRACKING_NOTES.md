@@ -1,4 +1,4 @@
-### Notes on Experiment Tracking and MLflow
+### Experiment Tracking and MLflow
 
 **Module Overview**:
 - This module focuses on experiment tracking.
