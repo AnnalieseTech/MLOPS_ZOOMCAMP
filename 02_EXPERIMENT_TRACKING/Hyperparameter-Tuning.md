@@ -1,6 +1,6 @@
 # Adding Hyperparameter Tuning to Your Notebook with MLflow and Hyperopt
 
-### Notes
+### Notes by [@AnnalieseTech](https://github.com/AnnalieseTech)
 
 **Introduction**
 - This tutorial covers how to add hyperparameter tuning to a notebook.
